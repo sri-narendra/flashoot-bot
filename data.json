@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "topic": "about_flashoot",
+    "keywords": ["what is flashoot", "flashoot", "about", "platform"],
+    "content": "Flashoot is a platform that connects users with professional reel makers and videographers to capture and edit high-quality short videos for events, personal moments, and brand content."
+  },
+  {
+    "id": 2,
+    "topic": "booking_process",
+    "keywords": ["book", "booking", "how to book", "hire"],
+    "content": "You can book a reel maker by selecting your event, browsing available creators, choosing a package, and confirming your booking through the platform."
+  },
+  {
+    "id": 3,
+    "topic": "event_types",
+    "keywords": ["events", "what events", "birthday", "wedding", "corporate"],
+    "content": "Flashoot supports multiple event types including birthdays, weddings, anniversaries, corporate events, brand shoots, college fests, and personal moments."
+  },
+  {
+    "id": 4,
+    "topic": "pricing_packages",
+    "keywords": ["price", "cost", "packages", "pricing"],
+    "content": "Flashoot offers customizable packages based on your needs. Pricing depends on event type, duration, and level of editing required."
+  },
+  {
+    "id": 5,
+    "topic": "video_quality",
+    "keywords": ["quality", "video quality", "professional"],
+    "content": "Flashoot provides professional-quality videos created by experienced reel makers using high-quality equipment and editing tools."
+  },
+  {
+    "id": 6,
+    "topic": "delivery_time",
+    "keywords": ["delivery", "how fast", "time", "when"],
+    "content": "Flashoot focuses on fast delivery, often providing edited reels quickly after the event, sometimes within hours depending on the package."
+  },
+  {
+    "id": 7,
+    "topic": "customization",
+    "keywords": ["custom", "customize", "preferences"],
+    "content": "You can customize your video by discussing your preferences, style, music, and edits directly with the selected reel maker."
+  },
+  {
+    "id": 8,
+    "topic": "social_media",
+    "keywords": ["instagram", "reels", "social media", "share"],
+    "content": "Flashoot videos are optimized for social media platforms like Instagram, TikTok, and Facebook, making them easy to share instantly."
+  },
+  {
+    "id": 9,
+    "topic": "creators",
+    "keywords": ["creator", "videographer", "reel maker"],
+    "content": "Flashoot connects you with skilled reel makers who specialize in shooting and editing short-form content for different events and purposes."
+  },
+  {
+    "id": 10,
+    "topic": "business_use",
+    "keywords": ["business", "brand", "promotion"],
+    "content": "Businesses can use Flashoot to create promotional content, brand campaigns, and event coverage with professional short videos."
+  },
+  {
+    "id": 11,
+    "topic": "user_types",
+    "keywords": ["who can use", "users", "for whom"],
+    "content": "Flashoot is designed for individuals, couples, parents, businesses, influencers, and anyone who wants professional video content."
+  },
+  {
+    "id": 12,
+    "topic": "reschedule_cancel",
+    "keywords": ["cancel", "reschedule", "change booking"],
+    "content": "Users can reschedule or cancel bookings depending on platform policies and timing of the request."
+  },
+  {
+    "id": 13,
+    "topic": "payment",
+    "keywords": ["payment", "pay", "refund"],
+    "content": "Payments can be made through the platform, and refunds are processed based on cancellation policies."
+  },
+  {
+    "id": 14,
+    "topic": "portfolio",
+    "keywords": ["portfolio", "examples", "previous work"],
+    "content": "Users can view reel maker portfolios, past work, and reviews before booking to choose the best creator."
+  },
+  {
+    "id": 15,
+    "topic": "instant_booking",
+    "keywords": ["instant", "quick booking"],
+    "content": "Flashoot allows quick and easy booking with a simple interface, enabling users to confirm a reel maker in minutes."
+  },
+  {
+    "id": 16,
+    "topic": "purpose",
+    "keywords": ["why use", "benefits"],
+    "content": "Flashoot helps capture important moments professionally without needing expensive equipment or production teams."
+  },
+  {
+    "id": 17,
+    "topic": "availability",
+    "keywords": ["availability", "cities", "location"],
+    "content": "Flashoot operates across multiple cities and is expanding to serve more locations across India."
+  },
+  {
+    "id": 18,
+    "topic": "creator_earning",
+    "keywords": ["earn", "job", "creator income"],
+    "content": "Flashoot provides earning opportunities for creators by connecting them with paid gigs for events and content creation."
+  }
+]
