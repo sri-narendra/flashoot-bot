@@ -1,7 +1,7 @@
 flask
 flask-cors
 python-dotenv
-google-generativeai
+google-genai
 faiss-cpu
 sentence-transformers
 numpy
